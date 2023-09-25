@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>for testist development branch</h1>
+      <h1>for testist for learning branch</h1>
     </>
   )
 }
